@@ -1,1 +1,2 @@
-Este es mi Readme
+Yngrid Martinez
+a20yngridma@iessanclemente.net
